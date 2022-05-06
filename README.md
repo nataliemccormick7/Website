@@ -34,7 +34,7 @@ I found a template (on Bootstrap.com) to use as a guide for the HTML and CSS set
 Project is: _complete_ 
 
 
-## Room for Improvementd
+## Room for Improvement
 
 Room for improvement/To do:
 - Add a project section with examples of various projects I have done throughout my academic career 
